@@ -1,0 +1,7 @@
+{
+  "name": "tde3/calculadora-api",
+  "description": "API GAteway",
+  "require": {
+    "slim/slim": "^3"
+  }
+}

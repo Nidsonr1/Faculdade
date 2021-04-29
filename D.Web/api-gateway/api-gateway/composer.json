@@ -1,0 +1,7 @@
+{
+  "name": "tde3/api-gateway",
+  "description": "API GAteway",
+  "require": {
+    "slim/slim": "^3"
+  }
+}
